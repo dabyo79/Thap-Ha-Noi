@@ -10,6 +10,7 @@ Trò chơi gồm 3 cột và n đĩa có kích thước giảm dần từ dướ
 Mục tiêu là di chuyển toàn bộ chồng đĩa từ cột nguồn sang cột đích, tuân thủ hai quy tắc:
 - Mỗi lần chỉ được di chuyển 1 đĩa.
 - Không đặt đĩa lớn lên trên đĩa nhỏ.
+
 Chương trình này giúp mô phỏng trực quan quá trình giải bài toán — từng bước di chuyển được hiển thị bằng các khối màu trên màn hình console.
 
 
