@@ -2,7 +2,6 @@
 
 Một mô phỏng trực quan của bài toán Tháp Hà Nội (Tower of Hanoi) — được lập trình hoàn toàn bằng C++ trên Console Windows, với hiệu ứng màu, căn giữa và điều khiển tương tác bằng bàn phím.
 
---
 
 ## 🧩 Giới thiệu
 
@@ -13,11 +12,9 @@ Mục tiêu là di chuyển toàn bộ chồng đĩa từ cột nguồn sang c�
     - Không đặt đĩa lớn lên trên đĩa nhỏ.
 Chương trình này giúp mô phỏng trực quan quá trình giải bài toán — từng bước di chuyển được hiển thị bằng các khối màu trên màn hình console.
 
---
 
 ![Mô phỏng trò chơi tháp Hà Nội](https://github.com/user-attachments/assets/507a7ef3-50be-4989-8249-6bc1c3c4b0cc)
 
---
 
 ## 🎮 Chế độ điều khiển tương tác:
 Phím	Chức năng
