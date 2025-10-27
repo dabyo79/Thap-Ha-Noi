@@ -8,8 +8,8 @@ Một mô phỏng trực quan của bài toán Tháp Hà Nội (Tower of Hanoi) 
 Tháp Hà Nội là một bài toán cổ điển trong khoa học máy tính và toán học.
 Trò chơi gồm 3 cột và n đĩa có kích thước giảm dần từ dưới lên trên.
 Mục tiêu là di chuyển toàn bộ chồng đĩa từ cột nguồn sang cột đích, tuân thủ hai quy tắc:
-    - Mỗi lần chỉ được di chuyển 1 đĩa.
-    - Không đặt đĩa lớn lên trên đĩa nhỏ.
+- Mỗi lần chỉ được di chuyển 1 đĩa.
+- - Không đặt đĩa lớn lên trên đĩa nhỏ.
 Chương trình này giúp mô phỏng trực quan quá trình giải bài toán — từng bước di chuyển được hiển thị bằng các khối màu trên màn hình console.
 
 
